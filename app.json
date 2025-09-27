@@ -47,6 +47,14 @@
     "updates": {
       "enabled": false,
       "fallbackToCacheTimeout": 0
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "3655e4b8-a964-4c20-8fc4-9250eba68723"
+      }
+    },
+    "owner": "tirthaboss"
+
   }
 }
